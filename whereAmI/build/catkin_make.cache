@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ahmed/projects/udacity/WHERE_AM_I/whereAmI/devel -DCMAKE_INSTALL_PREFIX=/home/ahmed/projects/udacity/WHERE_AM_I/whereAmI/install -G Unix Makefiles
