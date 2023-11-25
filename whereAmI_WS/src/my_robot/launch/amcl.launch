@@ -1,0 +1,5 @@
+<launch>
+    <node name = "map_server" type = "map_server" pkg = "map_server"/>
+    <node name = "amcl" type = "amcl" pkg = "amcl" />
+    <node name = "move_base" type = "move_base" pkg = "move_base"/>
+</launch>
