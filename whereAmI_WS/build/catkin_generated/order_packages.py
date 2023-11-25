@@ -2,4 +2,4 @@
 source_root_dir = '/home/ahmed/projects/udacity/Localization/localization_project/WHERE_AM_I/whereAmI_WS/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/ahmed/projects/udacity/GoChaseIt!/devel;/home/ahmed/projects/manipulator_robot/arduinobot_ws/devel;/opt/ros/noetic'.split(';') if '/home/ahmed/projects/udacity/GoChaseIt!/devel;/home/ahmed/projects/manipulator_robot/arduinobot_ws/devel;/opt/ros/noetic' != '' else []
+underlay_workspaces = '/home/ahmed/projects/udacity/Localization/localization_project/WHERE_AM_I/whereAmI_WS/devel;/home/ahmed/projects/udacity/GoChaseIt!/devel;/home/ahmed/projects/manipulator_robot/arduinobot_ws/devel;/opt/ros/noetic'.split(';') if '/home/ahmed/projects/udacity/Localization/localization_project/WHERE_AM_I/whereAmI_WS/devel;/home/ahmed/projects/udacity/GoChaseIt!/devel;/home/ahmed/projects/manipulator_robot/arduinobot_ws/devel;/opt/ros/noetic' != '' else []

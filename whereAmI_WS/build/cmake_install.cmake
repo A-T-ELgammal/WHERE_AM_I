@@ -133,7 +133,6 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/ahmed/projects/udacity/Localization/localization_project/WHERE_AM_I/whereAmI_WS/build/gtest/cmake_install.cmake")
   include("/home/ahmed/projects/udacity/Localization/localization_project/WHERE_AM_I/whereAmI_WS/build/my_robot/cmake_install.cmake")
   include("/home/ahmed/projects/udacity/Localization/localization_project/WHERE_AM_I/whereAmI_WS/build/teleop_twist_keyboard/cmake_install.cmake")
-  include("/home/ahmed/projects/udacity/Localization/localization_project/WHERE_AM_I/whereAmI_WS/build/pgm_map_creator/cmake_install.cmake")
 
 endif()
 

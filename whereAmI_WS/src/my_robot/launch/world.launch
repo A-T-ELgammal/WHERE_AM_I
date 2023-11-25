@@ -12,7 +12,8 @@
   <!-- Launch other relevant files-->
   <include file="$(find my_robot)/launch/robot_description.launch"/>
   <!-- World File -->
-  <arg name="world_file" default="$(find my_robot)/worlds/cafe.world"/>
+  <!-- <arg name="world_file" default="$(find my_robot)/worlds/cafe.world"/> -->
+  <arg name="world_file" default="$(find my_robot)/worlds/ahmed.world"/>
   <!-- rviz file -->
   <arg name = "rviz_world" default = "$(find my_robot)/rivz/world.rviz"/>
 
